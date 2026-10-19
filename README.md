@@ -1,5 +1,7 @@
 # Free Maths Learning Resources for Kids in Australia
 
+[Airbotix cheatsheets: read and share](CHEATSHEETS.md)
+
 [English](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko)
 
 Reviewed 19 October 2026 (Australia/Brisbane).
