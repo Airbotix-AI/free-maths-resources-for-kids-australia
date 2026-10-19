@@ -26,3 +26,9 @@ The repositories below answer related planning questions; fee research has cover
 [English](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko)
 
 [README](README.md) · [SOURCES](SOURCES.md)
+
+## Free English and reading resources by age and Australian year
+
+Twelve resource entries, a preschool–Year 12 guide, official sources, access limits and complete original reading examples. Choose the guide language; external services retain their own language support.
+
+[English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
